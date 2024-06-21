@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 Currently Working On: Mastering frontend development, attempting to conquer every frontend tool, design principle and javascript design library known to humankind. (Or until my laptop overheats!) 🖥️<br> <br>
-👯 Looking to Collaborate On: Any project in the domain of frontend development, UX development, or web designing. Let's create something beautiful and functional together! 🌐<br> <br>
+👯 Looking to Collaborate On: Any project in the domain of frontend development, UI designing, or web designing. Let's create something beautiful and functional together! 🌐<br> <br>
 🤝 Looking for Help With: Wrangling the ever-growing tech libraries. It's like trying to herd cats, but with code! 🐱‍💻<br><br>
 💭 Ask Me About: Anything related to Liverpool FC. YNWA! I can discuss tactics, transfers, or the emotional rollercoaster that comes with being a fan. ⚽<br><br>
 ⚡ Fun Fact: I once tried to implement a football match algorithm into my data structures project, but it kept throwing red cards at the referees! 🟥
